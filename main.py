@@ -14,4 +14,4 @@ def display_banner():
     print(text)
     
 if __name__ == "__main__":
-    display_banner()Commit made on this day.
+    display_banner()
