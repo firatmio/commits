@@ -8,7 +8,7 @@ def commit_for_one_day(repo_path, file_name="dummy.txt", commit_message="Commit 
     
     os.system(f"git add {file_name}")
     
-    os.system(f'git commit -m "{commit_message}" --date="2026-01-05 12:00:00"')
+    os.system(f'git commit -m "{commit_message}" --date="2026-01-10 12:00:00"')
     
 if __name__ == "__main__":
     repo_path = "./"
